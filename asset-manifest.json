@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/github.io/react-proba/static/css/main.2b84ab30.chunk.css",
+    "main.js": "/github.io/react-proba/static/js/main.e393f7d4.chunk.js",
+    "main.js.map": "/github.io/react-proba/static/js/main.e393f7d4.chunk.js.map",
+    "runtime-main.js": "/github.io/react-proba/static/js/runtime-main.e023268e.js",
+    "runtime-main.js.map": "/github.io/react-proba/static/js/runtime-main.e023268e.js.map",
+    "static/js/2.f3cd323e.chunk.js": "/github.io/react-proba/static/js/2.f3cd323e.chunk.js",
+    "static/js/2.f3cd323e.chunk.js.map": "/github.io/react-proba/static/js/2.f3cd323e.chunk.js.map",
+    "index.html": "/github.io/react-proba/index.html",
+    "precache-manifest.b671ba75a4656da145b9427c7aee8601.js": "/github.io/react-proba/precache-manifest.b671ba75a4656da145b9427c7aee8601.js",
+    "service-worker.js": "/github.io/react-proba/service-worker.js",
+    "static/css/main.2b84ab30.chunk.css.map": "/github.io/react-proba/static/css/main.2b84ab30.chunk.css.map",
+    "static/js/2.f3cd323e.chunk.js.LICENSE.txt": "/github.io/react-proba/static/js/2.f3cd323e.chunk.js.LICENSE.txt",
+    "static/media/gnome.jpeg": "/github.io/react-proba/static/media/gnome.323cfca1.jpeg",
+    "static/media/ye.jpeg": "/github.io/react-proba/static/media/ye.204ac683.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e023268e.js",
+    "static/js/2.f3cd323e.chunk.js",
+    "static/css/main.2b84ab30.chunk.css",
+    "static/js/main.e393f7d4.chunk.js"
+  ]
+}
